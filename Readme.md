@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[MainWindow.xaml](./CS/StackedBarTotalLabelSample/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/StackedBarTotalLabelSample/MainWindow.xaml))**
+<!-- default file list end -->
 # How to: show a Bar series' total labels
 
 
